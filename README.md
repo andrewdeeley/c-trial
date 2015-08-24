@@ -1,2 +1,2 @@
 # c-trial
-c# code for sharing
+trial c# code for sharing 
